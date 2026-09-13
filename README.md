@@ -1,21 +1,20 @@
-# OBLASIA® Premium Studio Website
+# OBLASIA® Premium Studio
 
-GitHub-ready Vite + React studio website based on the supplied Framer concept.
+Vite + React website for OBLASIA STUDIO.
 
-## Pages
-Home · Work · Work detail · Services · About · Roster · Contact
+## Included
+- Filled Work, Portfolio, Services, About, Roster and Contact pages
+- New Careers / Job Open Calls page
+- Roles: Photographer, Voice Artist, Videographer, Assistant, DOP, Drone Operator, Editor, Animator/3D Artist, Producer and Other Creative Talent
+- Applications route to business@oblasia.com
+- OBLASIA STUDIO phone: +917340159100
+- Bottom credit: Designed by Himanshu Khandelwal → WhatsApp
+- GitHub Pages workflow using Node 24
+- Hash-based routing for GitHub Pages project hosting
 
 ## Run
-```bash
 npm install
 npm run dev
-```
 
 ## Build
-```bash
 npm run build
-```
-
-The Vite `base: "./"` setting is included for GitHub Pages/project-site hosting.
-
-The current concept imagery is loaded from the published Framer CDN. Replace the three image URLs in `src/main.jsx` with local `/public/assets/...` files when you want a fully self-contained repository.
